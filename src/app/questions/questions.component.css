@@ -1,0 +1,44 @@
+.box{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: aqua;
+    border-radius: 10px;
+  }
+  
+  .quiz {
+      width: 100%;
+      height: auto;
+      padding-top: 10%;
+      
+     
+  }
+  
+  .question-form-container {
+    margin-top: 100px;
+  }
+  
+  .options {
+    width: 400px; /* Can be in percentage also. */
+    height: auto;
+    margin: auto;
+    /* padding: 10px;  */
+    /* position: relative; */
+    
+  }
+  
+  .submit {
+    margin-top: 5%;
+  }
+  
+  .last {
+    padding-bottom: 10%;
+  }
+  
+  
+  
+  
+  input {
+    margin-right: 10px;
+  }
